@@ -7,7 +7,11 @@ This is a google_charts [libvis](http://libvis.dev) module
 
 # Installation
 
-`libvis-mods install gh:libvis/google_charts`
+```
+libvis-mods download gh:libvis/google_charts
+cd google_charts
+libvis-mods install
+```
 
 ![demo gif](images/google-charts.gif)
 
