@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img width="112px" alt="libvis logo" src="http://libvis.dev/logo.png"/>
+    <img width="212px" alt="libvis logo" src="http://libvis.dev/libvis-sm.png"/>
 </div>
 
 This is a google_charts [libvis](http://libvis.dev) module
